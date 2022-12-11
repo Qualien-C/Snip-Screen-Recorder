@@ -11,10 +11,10 @@
 7) Or close the *Terminal*
 
 **REQUIRMENTS**
-- PyQt5
-- tkinter
-- Pillow [PIL]
-- cv2
+- PyQt5           - [pip install PyQt5]
+- tkinter         - [pip install tk]
+- Pillow [PIL]    - [pip install Pillow]
+- cv2             - [pip install opencv-python]
 
 
 Any concerns?
