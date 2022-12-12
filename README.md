@@ -8,7 +8,6 @@
 4) Give your recording a name
 5) Minimize all the windows, and start recording
 6) After recording, return to the minimized window, and press "q" on your keyboard to terminate the process
-7) Or close the *Terminal*
 
 **REQUIRMENTS**
 - PyQt5           - [pip install PyQt5]
